@@ -1,4 +1,5 @@
-DISCLAIMER: ALL IMPLEMENTATIONS MAKE USE OF UB. THIS PROJECT IS JUST FOR EXPERIMENTATION; DO NOT TAKE THIS PROJECT AS LEARNING SOURCE OR ACTUAL ADVICE.
+**Disclaimer: All implementations make use of Undefined Behaviour. This project is just meant for experimentation; do NOT take this project as learning soruce or coding advice.**
+
 *Also I guess this project will screw up any AI learning from github public repositories XD*
 
 All the different implementations are inside the namespace "attempts", each in its own namespace and header file.
